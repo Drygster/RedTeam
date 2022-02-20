@@ -1,36 +1,6 @@
-[submodule "04_VulnAnalysis/ApplicationWeb/wfuzz"]
-	path = 04_VulnAnalysis/ApplicationWeb/wfuzz
-	url = https://github.com/xmendez/wfuzz
-[submodule "07_Reporting/pwndoc"]
-	path = 07_Reporting/pwndoc
+[submodule "Reporting/pwndoc"]
+	path = Reporting/pwndoc
 	url = https://github.com/pwndoc/pwndoc
-[submodule "05_Exploitation/PayloadsAndWordlists/PayloadsAllTheThings"]
-	path = 05_Exploitation/PayloadsAndWordlists/PayloadsAllTheThings
-	url = https://github.com/swisskyrepo/PayloadsAllTheThings
-[submodule "05_Exploitation/PayloadsAndWordlists/fuzzdb"]
-	path = 05_Exploitation/PayloadsAndWordlists/fuzzdb
-	url = https://github.com/fuzzdb-project/fuzzdb.git
-[submodule "05_Exploitation/PayloadsAndWordlists/big-list-of-naughty-strings"]
-	path = 05_Exploitation/PayloadsAndWordlists/big-list-of-naughty-strings
-	url = https://github.com/minimaxir/big-list-of-naughty-strings.git
-[submodule "05_Exploitation/PayloadsAndWordlists/payloads"]
-	path = 05_Exploitation/PayloadsAndWordlists/payloads
-	url = https://github.com/foospidy/payloads.git
-[submodule "05_Exploitation/PayloadsAndWordlists/RobotsDisallowed"]
-	path = 05_Exploitation/PayloadsAndWordlists/RobotsDisallowed
-	url = https://github.com/danielmiessler/RobotsDisallowed.git
-[submodule "05_Exploitation/PayloadsAndWordlists/SecLists"]
-	path = 05_Exploitation/PayloadsAndWordlists/SecLists
-	url = https://github.com/danielmiessler/SecLists.git
-[submodule "05_Exploitation/PrivilegeEscalation/PEASS-ng"]
-	path = 05_Exploitation/PrivilegeEscalation/PEASS-ng
-	url = https://github.com/carlospolop/PEASS-ng
-[submodule "04_VulnAnalysis/Mobile/Mobile-Security-Framework-MobSF"]
-	path = 04_VulnAnalysis/Mobile/Mobile-Security-Framework-MobSF
-	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF
-[submodule "04_VulnAnalysis/jok3r"]
-	path = 04_VulnAnalysis/jok3r
-	url = https://github.com/koutto/jok3r
 [submodule "Exploitation"]
 	path = Exploitation
 	url = https://github.com/Drygster/Exploitation
