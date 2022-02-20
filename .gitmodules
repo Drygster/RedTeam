@@ -3,10 +3,10 @@
 	url = https://github.com/pwndoc/pwndoc
 [submodule "Exploitation"]
 	path = Exploitation
-	url = https://github.com/Drygster/Exploitation
+	url = git@github.com:Drygster/Exploitation
 [submodule "VulnAnalysis"]
 	path = VulnAnalysis
-	url = https://github.com/Drygster/VulnAnalysis
+	url = git@github.com:Drygster/VulnAnalysis
 [submodule "IntelligenceGathering"]
 	path = IntelligenceGathering
-	url = https://github.com/Drygster/IntelligenceGathering
+	url = git@github.com:Drygster/IntelligenceGathering
