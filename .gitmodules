@@ -10,3 +10,6 @@
 [submodule "IntelligenceGathering"]
 	path = IntelligenceGathering
 	url = git@github.com:Drygster/IntelligenceGathering
+[submodule "Reporting/joplin"]
+	path = Reporting/joplin
+	url = https://github.com/laurent22/joplin
